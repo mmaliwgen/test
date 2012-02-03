@@ -33,3 +33,5 @@
 This is my first portlet in tomcat+ liferay
 
 Hi <%=ParamUtil.getString(renderRequest,"name","user") %>
+
+sanketh
